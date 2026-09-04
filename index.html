@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="description" content="面向沿海居民的台风实况与分级预警演示页面">
+  <title>风讯｜台风实况与预警演示</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">跳到主要内容</a>
+  <div class="demo-banner" role="note"><b>DEMO</b><strong>本页面全部数据仅为演示使用</strong><span>不代表真实台风或官方预警，请勿据此采取实际行动。</span></div>
+
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#" aria-label="风讯首页"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span><span><b>风讯</b><small>沿海台风实况与预警</small></span></a>
+      <div class="header-tools"><span class="data-health"><i></i>演示数据已载入</span><button id="refresh" type="button">↻ 刷新</button></div>
+    </div>
+  </header>
+
+  <main id="main">
+    <section class="local-strip" aria-labelledby="local-title">
+      <div><p class="eyebrow">我的位置</p><h1 id="local-title">浙江省 · 宁波市</h1></div>
+      <div class="local-impact"><span>预计最强影响时段</span><strong>今天 20:00 — 明天 08:00</strong></div>
+      <button class="quiet-button" id="location" type="button">切换城市</button>
+    </section>
+
+    <section class="warning-card" aria-labelledby="warning-title">
+      <div class="warning-level" aria-hidden="true"><span>橙</span><small>预警</small></div>
+      <div class="warning-copy"><p class="eyebrow">官方预警演示 · 09月04日 09:30 发布</p><h2 id="warning-title">台风橙色预警（演示）</h2><p>未来 12 小时沿海风力将明显增强，请减少非必要外出，远离海边、河道和临时建筑。</p><div class="warning-meta"><span>演示发布机构：宁波市气象台</span><span>适用区域：宁波市沿海地区</span></div></div>
+      <a href="#actions">查看行动建议 →</a>
+    </section>
+
+    <section class="overview" aria-labelledby="typhoon-name">
+      <article class="storm-card">
+        <div class="storm-heading"><div><p class="eyebrow">当前活跃台风 · 演示编号 DEMO-01</p><h2 id="typhoon-name">台风“海棠” <span>HAITANG</span></h2></div><span class="strength-badge">强台风级</span></div>
+        <div class="storm-position"><span class="compass" aria-hidden="true">↖</span><div><span>中心位置</span><strong>宁波东南方向约 380 公里</strong><small>北纬 25.8° · 东经 124.1°</small></div></div>
+        <dl class="metrics">
+          <div><dt>最大风力</dt><dd><strong>15</strong> 级</dd><span>48 米/秒</span></div>
+          <div><dt>中心气压</dt><dd><strong>945</strong> 百帕</dd><span>强度维持</span></div>
+          <div><dt>移动方向</dt><dd><strong>西北</strong></dd><span>每小时 18 公里</span></div>
+          <div><dt>距离本地</dt><dd><strong>380</strong> 公里</dd><span>正在靠近</span></div>
+        </dl>
+        <div class="update-line"><span>数据时间：2026-09-04 10:00（演示）</span><span id="refresh-time" aria-live="polite">页面刷新：刚刚</span></div>
+      </article>
+      <aside class="arrival-card" aria-labelledby="arrival-title"><p class="eyebrow">对宁波的演示影响</p><h2 id="arrival-title">约 10 小时后<br>进入强影响时段</h2><div class="countdown" aria-label="预计十小时后进入强影响时段"><span><strong>10</strong><small>小时</small></span><i></i><span><strong>00</strong><small>分钟</small></span></div><ul><li><span>预计阵风</span><strong>11—13 级</strong></li><li><span>预计降雨</span><strong>暴雨到大暴雨</strong></li><li><span>影响趋势</span><strong class="trend">持续增强 ↑</strong></li></ul><p class="forecast-note">以上为演示预测，存在不确定性。</p></aside>
+    </section>
+
+    <section class="panel path-section" aria-labelledby="path-title">
+      <div class="section-heading"><div><p class="eyebrow">移动趋势</p><h2 id="path-title">台风路径示意图</h2></div><div class="legend" aria-label="路径图图例"><span><i class="history"></i>历史路径</span><span><i class="current"></i>当前位置</span><span><i class="forecast"></i>预测路径</span></div></div>
+      <div class="map-shell"><canvas id="typhoon-map" role="img" aria-label="演示台风从东南海面向西北方向移动，预计靠近浙江沿海"></canvas><span class="map-label ningbo">宁波</span><span class="map-label wenzhou">温州</span><span class="map-label taipei">台北</span><span class="map-label ocean">东 海</span><span class="map-note">路径和风圈均为示意，不用于实际决策</span></div>
+      <ol class="timeline" aria-label="预测路径时间点"><li class="past"><time>今天 02:00</time><strong>强台风级</strong><span>50 米/秒</span></li><li class="now"><time>今天 10:00</time><strong>当前位置</strong><span>48 米/秒</span></li><li><time>今天 18:00</time><strong>强台风级</strong><span>45 米/秒</span></li><li><time>明天 02:00</time><strong>台风级</strong><span>38 米/秒</span></li><li><time>明天 10:00</time><strong>强热带风暴级</strong><span>30 米/秒</span></li></ol>
+    </section>
+
+    <section class="panel actions" id="actions" aria-labelledby="actions-title">
+      <div class="section-heading"><div><p class="eyebrow">橙色预警行动卡 · 演示</p><h2 id="actions-title">现在应该做什么</h2></div><span class="priority">优先完成前 3 项</span></div>
+      <div class="action-grid">
+        <article><span class="number">01</span><div class="action-icon">⌂</div><h3>留在安全建筑内</h3><p>减少非必要外出，远离海边、河道、山坡和临时建筑。</p></article>
+        <article><span class="number">02</span><div class="action-icon">▣</div><h3>加固门窗和物品</h3><p>收回阳台花盆，固定空调外机及其他易坠落物品。</p></article>
+        <article><span class="number">03</span><div class="action-icon">＋</div><h3>备好应急物资</h3><p>准备饮水、食品、常用药、手电和已充满电的移动电源。</p></article>
+        <article><span class="number">04</span><div class="action-icon">◎</div><h3>听从转移安排</h3><p>低洼和危旧房屋居民应留意社区通知，按要求及时转移。</p></article>
+      </div>
+    </section>
+
+    <section class="source-note"><b aria-hidden="true">i</b><div><strong>数据说明</strong><p>本页面的台风名称、位置、风力、路径、预警机构及时间均为虚构演示内容。正式产品必须接入国家和地方气象、应急等主管部门的权威数据。</p></div></section>
+  </main>
+
+  <footer><div><strong>风讯</strong><span>让每一位沿海居民看懂台风风险</span></div><p>演示页面 · 请以主管部门正式发布的信息为准</p></footer>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+  <script src="script.js"></script>
+</body>
+</html>
