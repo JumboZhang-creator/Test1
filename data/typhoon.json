@@ -13,16 +13,16 @@
       "active": true,
       "warningLevel": "white",
       "startedAt": "2026-09-01 08:00:00",
-      "endedAt": "2026-09-06 11:00:00",
+      "endedAt": "2026-09-06 14:00:00",
       "current": {
-        "time": "2026-09-06 11:00:00",
-        "lng": 129.6,
+        "time": "2026-09-06 14:00:00",
+        "lng": 130.2,
         "lat": 25.7,
         "strength": "热带风暴",
         "power": 8,
         "windSpeed": 20,
         "pressure": 995,
-        "moveSpeed": 19,
+        "moveSpeed": 14,
         "moveDirection": "东北东",
         "radius7": "350|200|350|250",
         "radius10": null,
@@ -32,21 +32,6 @@
         "movementDescription": " “科罗旺”将以每小时10-15公里的速度向东偏北方向移动，强度变化不大 "
       },
       "history": [
-        {
-          "time": "2026-09-01 14:00:00",
-          "lng": 132.1,
-          "lat": 22.5,
-          "strength": "热带风暴",
-          "power": 8,
-          "windSpeed": 18,
-          "pressure": 995,
-          "moveSpeed": 0,
-          "moveDirection": "0",
-          "radius7": "280|220|200|380",
-          "radius10": null,
-          "radius12": null,
-          "phase": "history"
-        },
         {
           "time": "2026-09-01 17:00:00",
           "lng": 132.1,
@@ -631,14 +616,29 @@
           "radius10": null,
           "radius12": null,
           "phase": "history"
+        },
+        {
+          "time": "2026-09-06 14:00:00",
+          "lng": 130.2,
+          "lat": 25.7,
+          "strength": "热带风暴",
+          "power": 8,
+          "windSpeed": 20,
+          "pressure": 995,
+          "moveSpeed": 14,
+          "moveDirection": "东北东",
+          "radius7": "350|200|350|250",
+          "radius10": null,
+          "radius12": null,
+          "phase": "history"
         }
       ],
       "forecastAgency": "中国",
       "forecast": [
         {
-          "time": "2026-09-06 23:00:00",
+          "time": "2026-09-07 02:00:00",
           "lng": 131.7,
-          "lat": 26.4,
+          "lat": 26.2,
           "strength": "热带风暴",
           "power": 8,
           "windSpeed": 20,
@@ -651,9 +651,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-07 11:00:00",
-          "lng": 132.4,
-          "lat": 27.1,
+          "time": "2026-09-07 14:00:00",
+          "lng": 132.7,
+          "lat": 27.3,
           "strength": "热带风暴",
           "power": 8,
           "windSpeed": 18,
@@ -666,24 +666,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-07 23:00:00",
+          "time": "2026-09-08 02:00:00",
           "lng": 132.8,
-          "lat": 28.4,
-          "strength": "热带低压",
-          "power": 7,
-          "windSpeed": 15,
-          "pressure": 1002,
-          "moveSpeed": null,
-          "moveDirection": null,
-          "radius7": null,
-          "radius10": null,
-          "radius12": null,
-          "phase": "forecast"
-        },
-        {
-          "time": "2026-09-08 11:00:00",
-          "lng": 132.8,
-          "lat": 29.9,
+          "lat": 28.9,
           "strength": "热带低压",
           "power": 7,
           "windSpeed": 15,
@@ -698,5 +683,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-06T06:27:41.709Z"
+  "generatedAt": "2026-09-06T06:42:27.982Z"
 }
