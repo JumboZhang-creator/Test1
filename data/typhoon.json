@@ -28,8 +28,8 @@
         "radius10": null,
         "radius12": null,
         "phase": "current",
-        "positionDescription": " 距离琉球群岛那霸市东偏南方向约200公里",
-        "movementDescription": " “科罗旺”将以每小时15-20公里的速度向东偏北方向移动，强度变化不大 "
+        "positionDescription": " 距离琉球群岛那霸市东偏南方向约260公里",
+        "movementDescription": " “科罗旺”将以每小时10-15公里的速度向东偏北方向移动，强度变化不大 "
       },
       "history": [
         {
@@ -698,5 +698,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-06T03:36:51.290Z"
+  "generatedAt": "2026-09-06T06:27:41.709Z"
 }
