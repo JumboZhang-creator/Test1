@@ -1,10 +1,132 @@
 {
   "schemaVersion": 1,
-  "status": "no-active",
+  "status": "active",
   "source": {
     "name": "浙江省水利厅台风路径实时发布系统",
     "url": "https://typhoon.slt.zj.gov.cn/"
   },
-  "typhoons": [],
-  "generatedAt": "2026-09-07T03:25:31.803Z"
+  "typhoons": [
+    {
+      "id": "20260027",
+      "name": "热带低压",
+      "englishName": "NAMELESS",
+      "active": true,
+      "warningLevel": "white",
+      "startedAt": "2026-09-12 08:00:00",
+      "endedAt": "2026-09-12 11:00:00",
+      "current": {
+        "time": "2026-09-12 11:00:00",
+        "lng": 109.3,
+        "lat": 15.4,
+        "strength": "热带低压",
+        "power": 6,
+        "windSpeed": 13,
+        "pressure": 1005,
+        "moveSpeed": 6,
+        "moveDirection": "北北西",
+        "radius7": null,
+        "radius10": null,
+        "radius12": null,
+        "phase": "current",
+        "positionDescription": " 距离海南省三亚市偏南方向约320公里",
+        "movementDescription": " 热带低压将以每小时5-10公里的速度向北偏西方向缓慢移动，强度变化不大 "
+      },
+      "history": [
+        {
+          "time": "2026-09-12 08:00:00",
+          "lng": 109.4,
+          "lat": 15.3,
+          "strength": "热带低压",
+          "power": 6,
+          "windSpeed": 13,
+          "pressure": 1005,
+          "moveSpeed": 6,
+          "moveDirection": "北北西",
+          "radius7": null,
+          "radius10": null,
+          "radius12": null,
+          "phase": "history"
+        },
+        {
+          "time": "2026-09-12 11:00:00",
+          "lng": 109.3,
+          "lat": 15.4,
+          "strength": "热带低压",
+          "power": 6,
+          "windSpeed": 13,
+          "pressure": 1005,
+          "moveSpeed": 6,
+          "moveDirection": "北北西",
+          "radius7": null,
+          "radius10": null,
+          "radius12": null,
+          "phase": "history"
+        }
+      ],
+      "forecastAgency": "中国",
+      "forecast": [
+        {
+          "time": "2026-09-12 23:00:00",
+          "lng": 109,
+          "lat": 15.9,
+          "strength": "热带低压",
+          "power": 6,
+          "windSpeed": 13,
+          "pressure": 1005,
+          "moveSpeed": null,
+          "moveDirection": null,
+          "radius7": null,
+          "radius10": null,
+          "radius12": null,
+          "phase": "forecast"
+        },
+        {
+          "time": "2026-09-13 11:00:00",
+          "lng": 108.4,
+          "lat": 16.5,
+          "strength": "热带低压",
+          "power": 6,
+          "windSpeed": 13,
+          "pressure": 1005,
+          "moveSpeed": null,
+          "moveDirection": null,
+          "radius7": null,
+          "radius10": null,
+          "radius12": null,
+          "phase": "forecast"
+        },
+        {
+          "time": "2026-09-13 23:00:00",
+          "lng": 107.5,
+          "lat": 17.2,
+          "strength": "热带低压",
+          "power": 6,
+          "windSpeed": 13,
+          "pressure": 1005,
+          "moveSpeed": null,
+          "moveDirection": null,
+          "radius7": null,
+          "radius10": null,
+          "radius12": null,
+          "phase": "forecast"
+        },
+        {
+          "time": "2026-09-14 11:00:00",
+          "lng": 106.1,
+          "lat": 18.2,
+          "strength": "热带低压",
+          "power": 6,
+          "windSpeed": 12,
+          "pressure": 1008,
+          "moveSpeed": null,
+          "moveDirection": null,
+          "radius7": null,
+          "radius10": null,
+          "radius12": null,
+          "phase": "forecast"
+        }
+      ]
+    }
+  ],
+  "generatedAt": "2026-09-12T05:02:04.272Z"
 }
