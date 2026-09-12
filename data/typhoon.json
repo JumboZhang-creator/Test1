@@ -13,23 +13,23 @@
       "active": true,
       "warningLevel": "white",
       "startedAt": "2026-09-12 08:00:00",
-      "endedAt": "2026-09-13 02:00:00",
+      "endedAt": "2026-09-13 05:00:00",
       "current": {
-        "time": "2026-09-13 02:00:00",
-        "lng": 108.4,
-        "lat": 16.2,
+        "time": "2026-09-13 05:00:00",
+        "lng": 108,
+        "lat": 17.1,
         "strength": "热带低压",
         "power": 6,
         "windSpeed": 12,
         "pressure": 1006,
-        "moveSpeed": 12,
-        "moveDirection": "北西",
+        "moveSpeed": 11,
+        "moveDirection": "西",
         "radius7": null,
         "radius10": null,
         "radius12": null,
         "phase": "current",
-        "positionDescription": " 距离海南省三亚市南偏西方向约255公里",
-        "movementDescription": " 热带低压将以每小时10-15公里的速度向西北方向移动，强度变化不大 "
+        "positionDescription": " 距离海南省三亚市西南方向约205公里",
+        "movementDescription": " 热带低压将以每小时10-15公里的速度向偏西方向移动，强度变化不大 "
       },
       "history": [
         {
@@ -136,14 +136,29 @@
           "radius10": null,
           "radius12": null,
           "phase": "history"
+        },
+        {
+          "time": "2026-09-13 05:00:00",
+          "lng": 108,
+          "lat": 17.1,
+          "strength": "热带低压",
+          "power": 6,
+          "windSpeed": 12,
+          "pressure": 1006,
+          "moveSpeed": 11,
+          "moveDirection": "西",
+          "radius7": null,
+          "radius10": null,
+          "radius12": null,
+          "phase": "history"
         }
       ],
       "forecastAgency": "中国",
       "forecast": [
         {
-          "time": "2026-09-13 14:00:00",
-          "lng": 107.4,
-          "lat": 17,
+          "time": "2026-09-13 17:00:00",
+          "lng": 106.8,
+          "lat": 17.3,
           "strength": "热带低压",
           "power": 6,
           "windSpeed": 12,
@@ -156,24 +171,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-14 02:00:00",
-          "lng": 106,
-          "lat": 18.1,
-          "strength": "热带低压",
-          "power": 6,
-          "windSpeed": 12,
-          "pressure": 1006,
-          "moveSpeed": null,
-          "moveDirection": null,
-          "radius7": null,
-          "radius10": null,
-          "radius12": null,
-          "phase": "forecast"
-        },
-        {
-          "time": "2026-09-14 14:00:00",
-          "lng": 106,
-          "lat": 19.1,
+          "time": "2026-09-14 05:00:00",
+          "lng": 105.3,
+          "lat": 17.6,
           "strength": "热带低压",
           "power": 6,
           "windSpeed": 12,
@@ -188,5 +188,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-12T20:44:17.366Z"
+  "generatedAt": "2026-09-12T22:35:29.928Z"
 }
