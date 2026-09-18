@@ -13,23 +13,23 @@
       "active": true,
       "warningLevel": "white",
       "startedAt": "2026-09-16 20:00:00",
-      "endedAt": "2026-09-18 05:00:00",
+      "endedAt": "2026-09-18 08:00:00",
       "current": {
-        "time": "2026-09-18 05:00:00",
-        "lng": 145.3,
-        "lat": 25.4,
+        "time": "2026-09-18 08:00:00",
+        "lng": 145,
+        "lat": 25.3,
         "strength": "强热带风暴",
         "power": 10,
         "windSpeed": 28,
         "pressure": 982,
-        "moveSpeed": 22,
+        "moveSpeed": 27,
         "moveDirection": "西",
-        "radius7": "500|400|450|150",
-        "radius10": "150|80|150|80",
+        "radius7": "500|450|450|150",
+        "radius10": "150|120|150|80",
         "radius12": null,
         "phase": "current",
-        "positionDescription": " 距离塞班岛偏北方向约1130公里",
-        "movementDescription": " “杜鹃”将以每小时20-25公里的速度向偏西方向移动，强度逐渐增强 "
+        "positionDescription": " 距离日本东京南偏东方向约1260公里",
+        "movementDescription": " “杜鹃”将以每小时25-30公里的速度向偏西方向移动，强度逐渐加强 "
       },
       "history": [
         {
@@ -211,14 +211,29 @@
           "radius10": "150|80|150|80",
           "radius12": null,
           "phase": "history"
+        },
+        {
+          "time": "2026-09-18 08:00:00",
+          "lng": 145,
+          "lat": 25.3,
+          "strength": "强热带风暴",
+          "power": 10,
+          "windSpeed": 28,
+          "pressure": 982,
+          "moveSpeed": 27,
+          "moveDirection": "西",
+          "radius7": "500|450|450|150",
+          "radius10": "150|120|150|80",
+          "radius12": null,
+          "phase": "history"
         }
       ],
       "forecastAgency": "中国",
       "forecast": [
         {
-          "time": "2026-09-18 17:00:00",
-          "lng": 142.7,
-          "lat": 25.7,
+          "time": "2026-09-18 20:00:00",
+          "lng": 141.9,
+          "lat": 25.5,
           "strength": "强热带风暴",
           "power": 11,
           "windSpeed": 30,
@@ -231,24 +246,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-19 05:00:00",
-          "lng": 141,
-          "lat": 26.1,
-          "strength": "强热带风暴",
-          "power": 11,
-          "windSpeed": 30,
-          "pressure": 980,
-          "moveSpeed": null,
-          "moveDirection": null,
-          "radius7": null,
-          "radius10": null,
-          "radius12": null,
-          "phase": "forecast"
-        },
-        {
-          "time": "2026-09-19 17:00:00",
-          "lng": 139.4,
-          "lat": 27.7,
+          "time": "2026-09-19 08:00:00",
+          "lng": 140.2,
+          "lat": 26.6,
           "strength": "台风",
           "power": 12,
           "windSpeed": 33,
@@ -261,24 +261,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-20 05:00:00",
-          "lng": 138.6,
-          "lat": 29.4,
-          "strength": "台风",
-          "power": 12,
-          "windSpeed": 33,
-          "pressure": 975,
-          "moveSpeed": null,
-          "moveDirection": null,
-          "radius7": null,
-          "radius10": null,
-          "radius12": null,
-          "phase": "forecast"
-        },
-        {
-          "time": "2026-09-20 17:00:00",
+          "time": "2026-09-19 20:00:00",
           "lng": 138.9,
-          "lat": 31.6,
+          "lat": 28.3,
           "strength": "台风",
           "power": 12,
           "windSpeed": 33,
@@ -291,9 +276,24 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-21 05:00:00",
-          "lng": 140.5,
-          "lat": 34.3,
+          "time": "2026-09-20 08:00:00",
+          "lng": 138.6,
+          "lat": 30.3,
+          "strength": "台风",
+          "power": 12,
+          "windSpeed": 33,
+          "pressure": 975,
+          "moveSpeed": null,
+          "moveDirection": null,
+          "radius7": null,
+          "radius10": null,
+          "radius12": null,
+          "phase": "forecast"
+        },
+        {
+          "time": "2026-09-20 20:00:00",
+          "lng": 139.3,
+          "lat": 32.7,
           "strength": "强热带风暴",
           "power": 11,
           "windSpeed": 30,
@@ -306,13 +306,28 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-22 05:00:00",
-          "lng": 149.8,
-          "lat": 40.6,
+          "time": "2026-09-21 08:00:00",
+          "lng": 141.5,
+          "lat": 35.4,
           "strength": "强热带风暴",
           "power": 10,
-          "windSpeed": 25,
-          "pressure": 985,
+          "windSpeed": 28,
+          "pressure": 982,
+          "moveSpeed": null,
+          "moveDirection": null,
+          "radius7": null,
+          "radius10": null,
+          "radius12": null,
+          "phase": "forecast"
+        },
+        {
+          "time": "2026-09-22 08:00:00",
+          "lng": 152.3,
+          "lat": 42,
+          "strength": "热带风暴",
+          "power": 9,
+          "windSpeed": 23,
+          "pressure": 990,
           "moveSpeed": null,
           "moveDirection": null,
           "radius7": null,
@@ -323,5 +338,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-17T22:50:36.158Z"
+  "generatedAt": "2026-09-18T00:56:10.273Z"
 }
