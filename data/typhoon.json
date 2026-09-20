@@ -13,23 +13,23 @@
       "active": true,
       "warningLevel": "white",
       "startedAt": "2026-09-16 20:00:00",
-      "endedAt": "2026-09-20 08:00:00",
+      "endedAt": "2026-09-20 11:00:00",
       "current": {
-        "time": "2026-09-20 08:00:00",
+        "time": "2026-09-20 11:00:00",
         "lng": 137.6,
-        "lat": 29,
+        "lat": 29.2,
         "strength": "强热带风暴",
         "power": 11,
         "windSpeed": 30,
         "pressure": 980,
-        "moveSpeed": 13,
+        "moveSpeed": 15,
         "moveDirection": "北",
         "radius7": "500|300|400|300",
         "radius10": "100|100|100|100",
         "radius12": null,
         "phase": "current",
-        "positionDescription": " 距离日本东京南偏西方向约770公里",
-        "movementDescription": " “杜鹃”将以每小时10-15公里的速度向偏北方向移动，强度变化不大 "
+        "positionDescription": " 距离日本东京南偏西方向约750公里",
+        "movementDescription": " “杜鹃”将以每小时15公里左右的速度向偏北方向移动，强度变化不大 "
       },
       "history": [
         {
@@ -466,14 +466,29 @@
           "radius10": "100|100|100|100",
           "radius12": null,
           "phase": "history"
+        },
+        {
+          "time": "2026-09-20 11:00:00",
+          "lng": 137.6,
+          "lat": 29.2,
+          "strength": "强热带风暴",
+          "power": 11,
+          "windSpeed": 30,
+          "pressure": 980,
+          "moveSpeed": 15,
+          "moveDirection": "北",
+          "radius7": "500|300|400|300",
+          "radius10": "100|100|100|100",
+          "radius12": null,
+          "phase": "history"
         }
       ],
       "forecastAgency": "中国",
       "forecast": [
         {
-          "time": "2026-09-20 20:00:00",
+          "time": "2026-09-20 23:00:00",
           "lng": 137.5,
-          "lat": 30.4,
+          "lat": 30.8,
           "strength": "强热带风暴",
           "power": 11,
           "windSpeed": 30,
@@ -486,9 +501,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-21 08:00:00",
-          "lng": 138.4,
-          "lat": 32.4,
+          "time": "2026-09-21 11:00:00",
+          "lng": 138.8,
+          "lat": 33,
           "strength": "强热带风暴",
           "power": 10,
           "windSpeed": 28,
@@ -501,9 +516,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-21 20:00:00",
-          "lng": 140.9,
-          "lat": 34.7,
+          "time": "2026-09-21 23:00:00",
+          "lng": 142.4,
+          "lat": 35.8,
           "strength": "强热带风暴",
           "power": 10,
           "windSpeed": 28,
@@ -516,9 +531,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-22 08:00:00",
-          "lng": 145.8,
-          "lat": 37.7,
+          "time": "2026-09-22 11:00:00",
+          "lng": 148.2,
+          "lat": 38.9,
           "strength": "强热带风暴",
           "power": 10,
           "windSpeed": 25,
@@ -531,9 +546,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-22 20:00:00",
-          "lng": 152,
-          "lat": 40.1,
+          "time": "2026-09-22 23:00:00",
+          "lng": 155,
+          "lat": 41,
           "strength": "强热带风暴",
           "power": 10,
           "windSpeed": 25,
@@ -548,5 +563,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-20T01:05:39.699Z"
+  "generatedAt": "2026-09-20T06:12:41.628Z"
 }
