@@ -28,8 +28,8 @@
         "radius10": null,
         "radius12": null,
         "phase": "current",
-        "positionDescription": " 距离琉球群岛那霸市南偏东方向约850公里",
-        "movementDescription": " “舒力基”将以每小时20公里左右的速度向西北方向移动，强度逐渐增强 "
+        "positionDescription": " 距离琉球群岛那霸市南偏东方向约760公里",
+        "movementDescription": " “舒力基”将以每小时15-20公里的速度向西北方向移动，强度逐渐增强 "
       },
       "history": [
         {
@@ -323,5 +323,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-24T22:35:31.578Z"
+  "generatedAt": "2026-09-25T00:49:14.777Z"
 }
