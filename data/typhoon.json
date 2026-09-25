@@ -13,11 +13,11 @@
       "active": true,
       "warningLevel": "white",
       "startedAt": "2026-09-23 23:00:00",
-      "endedAt": "2026-09-25 23:00:00",
+      "endedAt": "2026-09-26 02:00:00",
       "current": {
-        "time": "2026-09-25 23:00:00",
-        "lng": 128,
-        "lat": 20.9,
+        "time": "2026-09-26 02:00:00",
+        "lng": 127.6,
+        "lat": 21.1,
         "strength": "强热带风暴",
         "power": 10,
         "windSpeed": 28,
@@ -28,8 +28,8 @@
         "radius10": "60|60|60|60",
         "radius12": null,
         "phase": "current",
-        "positionDescription": " 距离西北太平洋琉球群岛那霸市南方向约595公里",
-        "movementDescription": " “舒力基”将以每小时15-20公里的速度向西北偏北方向移动，强度逐渐增强 "
+        "positionDescription": " 距离琉球群岛那霸市偏南方向约570公里",
+        "movementDescription": " “舒力基”将以每小时15-20公里的速度向偏北方向移动，强度逐渐增强 "
       },
       "history": [
         {
@@ -286,14 +286,29 @@
           "radius10": "60|60|60|60",
           "radius12": null,
           "phase": "history"
+        },
+        {
+          "time": "2026-09-26 02:00:00",
+          "lng": 127.6,
+          "lat": 21.1,
+          "strength": "强热带风暴",
+          "power": 10,
+          "windSpeed": 28,
+          "pressure": 982,
+          "moveSpeed": 18,
+          "moveDirection": "北北西",
+          "radius7": "250|200|250|200",
+          "radius10": "60|60|60|60",
+          "radius12": null,
+          "phase": "history"
         }
       ],
       "forecastAgency": "中国",
       "forecast": [
         {
-          "time": "2026-09-26 11:00:00",
+          "time": "2026-09-26 14:00:00",
           "lng": 127.3,
-          "lat": 22.7,
+          "lat": 23.2,
           "strength": "强热带风暴",
           "power": 11,
           "windSpeed": 30,
@@ -306,9 +321,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-26 23:00:00",
-          "lng": 127.3,
-          "lat": 23.6,
+          "time": "2026-09-27 02:00:00",
+          "lng": 127.7,
+          "lat": 24.1,
           "strength": "台风",
           "power": 12,
           "windSpeed": 35,
@@ -321,9 +336,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-27 11:00:00",
-          "lng": 128.1,
-          "lat": 24.7,
+          "time": "2026-09-27 14:00:00",
+          "lng": 128.7,
+          "lat": 25.2,
           "strength": "强台风",
           "power": 14,
           "windSpeed": 42,
@@ -336,9 +351,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-27 23:00:00",
-          "lng": 129.4,
-          "lat": 25.8,
+          "time": "2026-09-28 02:00:00",
+          "lng": 130,
+          "lat": 26.3,
           "strength": "台风",
           "power": 13,
           "windSpeed": 40,
@@ -351,9 +366,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-28 11:00:00",
-          "lng": 130.9,
-          "lat": 26.8,
+          "time": "2026-09-28 14:00:00",
+          "lng": 131.8,
+          "lat": 27.3,
           "strength": "台风",
           "power": 13,
           "windSpeed": 38,
@@ -366,9 +381,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-28 23:00:00",
-          "lng": 132.6,
-          "lat": 27.7,
+          "time": "2026-09-29 02:00:00",
+          "lng": 133.4,
+          "lat": 28.2,
           "strength": "台风",
           "power": 12,
           "windSpeed": 35,
@@ -381,9 +396,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-29 23:00:00",
-          "lng": 136.3,
-          "lat": 29.8,
+          "time": "2026-09-30 02:00:00",
+          "lng": 137.4,
+          "lat": 30.4,
           "strength": "强热带风暴",
           "power": 11,
           "windSpeed": 30,
@@ -396,9 +411,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-09-30 23:00:00",
-          "lng": 139.6,
-          "lat": 32.5,
+          "time": "2026-10-01 02:00:00",
+          "lng": 140.2,
+          "lat": 33.2,
           "strength": "热带风暴",
           "power": 8,
           "windSpeed": 20,
@@ -413,5 +428,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-09-25T15:33:33.372Z"
+  "generatedAt": "2026-09-25T19:33:12.713Z"
 }
