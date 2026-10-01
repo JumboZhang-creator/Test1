@@ -13,23 +13,23 @@
       "active": true,
       "warningLevel": "white",
       "startedAt": "2026-10-01 02:00:00",
-      "endedAt": "2026-10-01 20:00:00",
+      "endedAt": "2026-10-02 02:00:00",
       "current": {
-        "time": "2026-10-01 20:00:00",
-        "lng": 146.2,
+        "time": "2026-10-02 02:00:00",
+        "lng": 145.2,
         "lat": 16.8,
-        "strength": "热带风暴",
-        "power": 8,
-        "windSpeed": 20,
-        "pressure": 995,
-        "moveSpeed": 11,
-        "moveDirection": "西北西",
-        "radius7": "250|120|150|100",
+        "strength": "强热带风暴",
+        "power": 10,
+        "windSpeed": 25,
+        "pressure": 985,
+        "moveSpeed": 7,
+        "moveDirection": "北西",
+        "radius7": "250|150|150|150",
         "radius10": null,
         "radius12": null,
         "phase": "current",
-        "positionDescription": " 距离关岛塞班东北方向约180公里",
-        "movementDescription": " “彩云”将以每小时10-15公里的速度向西北偏西方向移动，强度逐渐增强 "
+        "positionDescription": " 距离关岛塞班西北方向约185公里",
+        "movementDescription": " “彩云”将以每小时5-10公里的速度向西北方向移动，强度逐渐增强 "
       },
       "history": [
         {
@@ -136,14 +136,44 @@
           "radius10": null,
           "radius12": null,
           "phase": "history"
+        },
+        {
+          "time": "2026-10-01 23:00:00",
+          "lng": 145.7,
+          "lat": 16.8,
+          "strength": "热带风暴",
+          "power": 9,
+          "windSpeed": 23,
+          "pressure": 990,
+          "moveSpeed": 9,
+          "moveDirection": "西北西",
+          "radius7": "250|150|150|120",
+          "radius10": null,
+          "radius12": null,
+          "phase": "history"
+        },
+        {
+          "time": "2026-10-02 02:00:00",
+          "lng": 145.2,
+          "lat": 16.8,
+          "strength": "强热带风暴",
+          "power": 10,
+          "windSpeed": 25,
+          "pressure": 985,
+          "moveSpeed": 7,
+          "moveDirection": "北西",
+          "radius7": "250|150|150|150",
+          "radius10": null,
+          "radius12": null,
+          "phase": "history"
         }
       ],
       "forecastAgency": "中国",
       "forecast": [
         {
-          "time": "2026-10-02 08:00:00",
-          "lng": 145,
-          "lat": 17.1,
+          "time": "2026-10-02 14:00:00",
+          "lng": 144.6,
+          "lat": 17.3,
           "strength": "强热带风暴",
           "power": 10,
           "windSpeed": 28,
@@ -156,9 +186,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-02 20:00:00",
+          "time": "2026-10-03 02:00:00",
           "lng": 144.7,
-          "lat": 17.8,
+          "lat": 18.1,
           "strength": "台风",
           "power": 12,
           "windSpeed": 33,
@@ -171,9 +201,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-03 08:00:00",
-          "lng": 145.2,
-          "lat": 18.8,
+          "time": "2026-10-03 14:00:00",
+          "lng": 145.3,
+          "lat": 19.4,
           "strength": "台风",
           "power": 13,
           "windSpeed": 38,
@@ -186,9 +216,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-03 20:00:00",
+          "time": "2026-10-04 02:00:00",
           "lng": 146,
-          "lat": 20.2,
+          "lat": 20.8,
           "strength": "强台风",
           "power": 14,
           "windSpeed": 42,
@@ -201,9 +231,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-04 08:00:00",
-          "lng": 146.4,
-          "lat": 21.5,
+          "time": "2026-10-04 14:00:00",
+          "lng": 146.2,
+          "lat": 22.1,
           "strength": "强台风",
           "power": 14,
           "windSpeed": 45,
@@ -216,9 +246,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-04 20:00:00",
-          "lng": 146.4,
-          "lat": 22.8,
+          "time": "2026-10-05 02:00:00",
+          "lng": 146.1,
+          "lat": 23.4,
           "strength": "强台风",
           "power": 15,
           "windSpeed": 48,
@@ -231,9 +261,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-05 20:00:00",
-          "lng": 145.1,
-          "lat": 26,
+          "time": "2026-10-06 02:00:00",
+          "lng": 144.8,
+          "lat": 27,
           "strength": "强台风",
           "power": 14,
           "windSpeed": 45,
@@ -246,9 +276,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-06 20:00:00",
-          "lng": 145.7,
-          "lat": 31.6,
+          "time": "2026-10-07 02:00:00",
+          "lng": 146.5,
+          "lat": 33.5,
           "strength": "强台风",
           "power": 14,
           "windSpeed": 45,
@@ -263,5 +293,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-01T13:39:21.423Z"
+  "generatedAt": "2026-10-01T19:02:08.773Z"
 }
