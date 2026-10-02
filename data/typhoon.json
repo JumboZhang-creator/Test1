@@ -13,23 +13,23 @@
       "active": true,
       "warningLevel": "white",
       "startedAt": "2026-10-01 02:00:00",
-      "endedAt": "2026-10-03 02:00:00",
+      "endedAt": "2026-10-03 05:00:00",
       "current": {
-        "time": "2026-10-03 02:00:00",
-        "lng": 144.7,
-        "lat": 18.1,
+        "time": "2026-10-03 05:00:00",
+        "lng": 144.8,
+        "lat": 18.3,
         "strength": "台风",
         "power": 12,
         "windSpeed": 35,
         "pressure": 970,
-        "moveSpeed": 16,
-        "moveDirection": "北北东",
+        "moveSpeed": 17,
+        "moveDirection": "北东",
         "radius7": "350|550|350|450",
         "radius10": "100|120|100|100",
         "radius12": "30|50|30|30",
         "phase": "current",
-        "positionDescription": " 距离关岛塞班北偏西方向约335公里",
-        "movementDescription": " “彩云”将以每小时15-20公里的速度向北偏东方向移动，强度逐渐增强 "
+        "positionDescription": " 距离关岛塞班北偏西方向约355公里",
+        "movementDescription": " “彩云”将以每小时15-20公里的速度向东北方向移动，强度逐渐增强 "
       },
       "history": [
         {
@@ -286,14 +286,29 @@
           "radius10": "100|120|100|100",
           "radius12": "30|50|30|30",
           "phase": "history"
+        },
+        {
+          "time": "2026-10-03 05:00:00",
+          "lng": 144.8,
+          "lat": 18.3,
+          "strength": "台风",
+          "power": 12,
+          "windSpeed": 35,
+          "pressure": 970,
+          "moveSpeed": 17,
+          "moveDirection": "北东",
+          "radius7": "350|550|350|450",
+          "radius10": "100|120|100|100",
+          "radius12": "30|50|30|30",
+          "phase": "history"
         }
       ],
       "forecastAgency": "中国",
       "forecast": [
         {
-          "time": "2026-10-03 14:00:00",
-          "lng": 145.6,
-          "lat": 19.5,
+          "time": "2026-10-03 17:00:00",
+          "lng": 145.9,
+          "lat": 19.8,
           "strength": "台风",
           "power": 13,
           "windSpeed": 40,
@@ -306,9 +321,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-04 02:00:00",
-          "lng": 146.3,
-          "lat": 21,
+          "time": "2026-10-04 05:00:00",
+          "lng": 146.6,
+          "lat": 21.4,
           "strength": "强台风",
           "power": 15,
           "windSpeed": 48,
@@ -321,9 +336,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-04 14:00:00",
-          "lng": 146.7,
-          "lat": 22.6,
+          "time": "2026-10-04 17:00:00",
+          "lng": 146.9,
+          "lat": 23,
           "strength": "超强台风",
           "power": 16,
           "windSpeed": 52,
@@ -336,9 +351,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-05 02:00:00",
-          "lng": 146.3,
-          "lat": 24.2,
+          "time": "2026-10-05 05:00:00",
+          "lng": 146.4,
+          "lat": 24.6,
           "strength": "强台风",
           "power": 15,
           "windSpeed": 50,
@@ -351,9 +366,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-05 14:00:00",
-          "lng": 145.7,
-          "lat": 26.1,
+          "time": "2026-10-05 17:00:00",
+          "lng": 145.6,
+          "lat": 26.7,
           "strength": "强台风",
           "power": 15,
           "windSpeed": 50,
@@ -366,9 +381,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-06 02:00:00",
-          "lng": 145.5,
-          "lat": 28.3,
+          "time": "2026-10-06 05:00:00",
+          "lng": 145.4,
+          "lat": 29.4,
           "strength": "强台风",
           "power": 15,
           "windSpeed": 48,
@@ -381,13 +396,13 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-07 02:00:00",
-          "lng": 149.8,
-          "lat": 36.7,
+          "time": "2026-10-07 05:00:00",
+          "lng": 151.4,
+          "lat": 38.8,
           "strength": "台风",
-          "power": 13,
-          "windSpeed": 38,
-          "pressure": 960,
+          "power": 12,
+          "windSpeed": 35,
+          "pressure": 965,
           "moveSpeed": null,
           "moveDirection": null,
           "radius7": null,
@@ -398,5 +413,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-02T19:50:07.808Z"
+  "generatedAt": "2026-10-02T23:28:48.906Z"
 }
