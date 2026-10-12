@@ -13,55 +13,25 @@
       "active": true,
       "warningLevel": "white",
       "startedAt": "2026-10-05 08:00:00",
-      "endedAt": "2026-10-12 08:00:00",
+      "endedAt": "2026-10-12 14:00:00",
       "current": {
-        "time": "2026-10-12 08:00:00",
-        "lng": 147.4,
-        "lat": 28.3,
+        "time": "2026-10-12 14:00:00",
+        "lng": 147.8,
+        "lat": 29.8,
         "strength": "强台风",
         "power": 14,
-        "windSpeed": 45,
-        "pressure": 950,
-        "moveSpeed": 27,
+        "windSpeed": 42,
+        "pressure": 955,
+        "moveSpeed": 31,
         "moveDirection": "北北东",
         "radius7": "320|320|250|220",
         "radius10": "120|120|100|100",
         "radius12": "60|60|60|60",
         "phase": "current",
-        "positionDescription": " 距离日本东京东南方向约1100公里",
-        "movementDescription": " “小熊”将以每小时25-30公里的速度向北偏东方向移动，强度逐渐减弱 "
+        "positionDescription": " 距离日本东京东南方向约1000公里",
+        "movementDescription": " “小熊”将以每小时30-35公里的速度向北偏东方向快速移动，强度逐渐减弱 "
       },
       "history": [
-        {
-          "time": "2026-10-07 11:00:00",
-          "lng": 163.2,
-          "lat": 15,
-          "strength": "强热带风暴",
-          "power": 10,
-          "windSpeed": 25,
-          "pressure": 985,
-          "moveSpeed": 13,
-          "moveDirection": "北西",
-          "radius7": "200|120|150|150",
-          "radius10": null,
-          "radius12": null,
-          "phase": "history"
-        },
-        {
-          "time": "2026-10-07 14:00:00",
-          "lng": 163,
-          "lat": 15.1,
-          "strength": "强热带风暴",
-          "power": 10,
-          "windSpeed": 25,
-          "pressure": 985,
-          "moveSpeed": 10,
-          "moveDirection": "北西",
-          "radius7": "220|200|150|150",
-          "radius10": null,
-          "radius12": null,
-          "phase": "history"
-        },
         {
           "time": "2026-10-07 17:00:00",
           "lng": 162.8,
@@ -631,14 +601,44 @@
           "radius10": "120|120|100|100",
           "radius12": "60|60|60|60",
           "phase": "history"
+        },
+        {
+          "time": "2026-10-12 11:00:00",
+          "lng": 147.5,
+          "lat": 29.1,
+          "strength": "强台风",
+          "power": 14,
+          "windSpeed": 45,
+          "pressure": 950,
+          "moveSpeed": 29,
+          "moveDirection": "北北东",
+          "radius7": "320|320|250|220",
+          "radius10": "120|120|100|100",
+          "radius12": "60|60|60|60",
+          "phase": "history"
+        },
+        {
+          "time": "2026-10-12 14:00:00",
+          "lng": 147.8,
+          "lat": 29.8,
+          "strength": "强台风",
+          "power": 14,
+          "windSpeed": 42,
+          "pressure": 955,
+          "moveSpeed": 31,
+          "moveDirection": "北北东",
+          "radius7": "320|320|250|220",
+          "radius10": "120|120|100|100",
+          "radius12": "60|60|60|60",
+          "phase": "history"
         }
       ],
       "forecastAgency": "中国",
       "forecast": [
         {
-          "time": "2026-10-12 20:00:00",
-          "lng": 148.4,
-          "lat": 31,
+          "time": "2026-10-13 02:00:00",
+          "lng": 149.7,
+          "lat": 32.7,
           "strength": "台风",
           "power": 13,
           "windSpeed": 40,
@@ -651,9 +651,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-13 08:00:00",
-          "lng": 151.3,
-          "lat": 34,
+          "time": "2026-10-13 14:00:00",
+          "lng": 153,
+          "lat": 35.5,
           "strength": "台风",
           "power": 12,
           "windSpeed": 35,
@@ -666,9 +666,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-13 20:00:00",
-          "lng": 155,
-          "lat": 36.8,
+          "time": "2026-10-14 02:00:00",
+          "lng": 156.3,
+          "lat": 38.3,
           "strength": "强热带风暴",
           "power": 11,
           "windSpeed": 30,
@@ -681,9 +681,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-14 08:00:00",
-          "lng": 159.3,
-          "lat": 39.8,
+          "time": "2026-10-14 14:00:00",
+          "lng": 160.2,
+          "lat": 40.7,
           "strength": "强热带风暴",
           "power": 10,
           "windSpeed": 25,
@@ -696,8 +696,8 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-14 20:00:00",
-          "lng": 163.9,
+          "time": "2026-10-15 02:00:00",
+          "lng": 165.2,
           "lat": 42,
           "strength": "热带风暴",
           "power": 9,
@@ -713,5 +713,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-12T01:58:38.186Z"
+  "generatedAt": "2026-10-12T08:47:59.838Z"
 }
