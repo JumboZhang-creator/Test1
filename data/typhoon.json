@@ -13,23 +13,23 @@
       "active": true,
       "warningLevel": "0",
       "startedAt": "2026-10-24 02:00:00",
-      "endedAt": "2026-10-26 02:00:00",
+      "endedAt": "2026-10-26 05:00:00",
       "current": {
-        "time": "2026-10-26 02:00:00",
-        "lng": 164.2,
-        "lat": 13.4,
+        "time": "2026-10-26 05:00:00",
+        "lng": 163.9,
+        "lat": 13.9,
         "strength": "强热带风暴",
         "power": 11,
         "windSpeed": 30,
         "pressure": 980,
-        "moveSpeed": 12,
+        "moveSpeed": 9,
         "moveDirection": "西北西",
         "radius7": "220|180|180|200",
         "radius10": "80|60|60|80",
         "radius12": null,
         "phase": "current",
-        "positionDescription": " 距离关岛塞班偏东方向约2000公里",
-        "movementDescription": " “烟花”将以每小时10-15公里的速度向西偏北方向移动，强度逐渐增强 "
+        "positionDescription": " 距离关岛塞班偏东方向约1960公里",
+        "movementDescription": " “烟花”将以每小时5-10公里的速度向西偏北方向缓慢移动，强度逐渐增强 "
       },
       "history": [
         {
@@ -286,13 +286,28 @@
           "radius10": "80|60|60|80",
           "radius12": null,
           "phase": "history"
+        },
+        {
+          "time": "2026-10-26 05:00:00",
+          "lng": 163.9,
+          "lat": 13.9,
+          "strength": "强热带风暴",
+          "power": 11,
+          "windSpeed": 30,
+          "pressure": 980,
+          "moveSpeed": 9,
+          "moveDirection": "西北西",
+          "radius7": "220|180|180|200",
+          "radius10": "80|60|60|80",
+          "radius12": null,
+          "phase": "history"
         }
       ],
       "forecastAgency": "中国",
       "forecast": [
         {
-          "time": "2026-10-26 14:00:00",
-          "lng": 163.1,
+          "time": "2026-10-26 17:00:00",
+          "lng": 163,
           "lat": 14.1,
           "strength": "台风",
           "power": 13,
@@ -306,8 +321,8 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-27 02:00:00",
-          "lng": 162.6,
+          "time": "2026-10-27 05:00:00",
+          "lng": 162.5,
           "lat": 14.4,
           "strength": "强台风",
           "power": 14,
@@ -321,8 +336,8 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-27 14:00:00",
-          "lng": 162,
+          "time": "2026-10-27 17:00:00",
+          "lng": 161.9,
           "lat": 14.5,
           "strength": "强台风",
           "power": 15,
@@ -336,8 +351,8 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-28 02:00:00",
-          "lng": 160.8,
+          "time": "2026-10-28 05:00:00",
+          "lng": 160.7,
           "lat": 14.7,
           "strength": "超强台风",
           "power": 16,
@@ -351,8 +366,8 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-28 14:00:00",
-          "lng": 158.9,
+          "time": "2026-10-28 17:00:00",
+          "lng": 158.7,
           "lat": 15,
           "strength": "超强台风",
           "power": 16,
@@ -366,9 +381,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-29 02:00:00",
-          "lng": 156.3,
-          "lat": 15.4,
+          "time": "2026-10-29 05:00:00",
+          "lng": 155.9,
+          "lat": 15.3,
           "strength": "超强台风",
           "power": 17,
           "windSpeed": 58,
@@ -381,9 +396,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-30 02:00:00",
-          "lng": 149.4,
-          "lat": 16.4,
+          "time": "2026-10-30 05:00:00",
+          "lng": 148.8,
+          "lat": 16.5,
           "strength": "超强台风",
           "power": 17,
           "windSpeed": 60,
@@ -396,9 +411,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-10-31 02:00:00",
-          "lng": 142.6,
-          "lat": 19.1,
+          "time": "2026-10-31 05:00:00",
+          "lng": 142.5,
+          "lat": 19.5,
           "strength": "超强台风",
           "power": 17,
           "windSpeed": 60,
@@ -413,5 +428,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-10-25T19:15:11.015Z"
+  "generatedAt": "2026-10-25T21:58:02.174Z"
 }
