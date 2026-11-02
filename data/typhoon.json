@@ -13,70 +13,25 @@
       "active": true,
       "warningLevel": "0",
       "startedAt": "2026-10-24 02:00:00",
-      "endedAt": "2026-11-02 17:00:00",
+      "endedAt": "2026-11-03 02:00:00",
       "current": {
-        "time": "2026-11-02 17:00:00",
-        "lng": 140.7,
-        "lat": 22.7,
+        "time": "2026-11-03 02:00:00",
+        "lng": 139.8,
+        "lat": 23.1,
         "strength": "强热带风暴",
         "power": 10,
         "windSpeed": 28,
         "pressure": 982,
-        "moveSpeed": 11,
-        "moveDirection": "西北西",
+        "moveSpeed": 6,
+        "moveDirection": "西",
         "radius7": "280|250|360|220",
         "radius10": "100|80|120|80",
         "radius12": null,
         "phase": "current",
-        "positionDescription": " 距离日本东京偏南方向约1450公里",
-        "movementDescription": " “烟花”将以每小时10-15公里的速度向西偏北方向移动，强度逐渐减弱 "
+        "positionDescription": " 距离日本东京偏南方向约1400公里",
+        "movementDescription": " “烟花”将以每小时5-10公里的速度向偏西方向缓慢移动，强度缓慢减弱 "
       },
       "history": [
-        {
-          "time": "2026-10-28 20:00:00",
-          "lng": 157.6,
-          "lat": 15.3,
-          "strength": "超强台风",
-          "power": 17,
-          "windSpeed": 60,
-          "pressure": 920,
-          "moveSpeed": 27,
-          "moveDirection": "西",
-          "radius7": "320|270|300|250",
-          "radius10": "120|100|120|100",
-          "radius12": "60|60|60|60",
-          "phase": "history"
-        },
-        {
-          "time": "2026-10-28 23:00:00",
-          "lng": 157,
-          "lat": 15.4,
-          "strength": "超强台风",
-          "power": 16,
-          "windSpeed": 55,
-          "pressure": 930,
-          "moveSpeed": 27,
-          "moveDirection": "西",
-          "radius7": "320|270|300|250",
-          "radius10": "120|100|120|100",
-          "radius12": "60|60|60|60",
-          "phase": "history"
-        },
-        {
-          "time": "2026-10-29 02:00:00",
-          "lng": 156.3,
-          "lat": 15.6,
-          "strength": "超强台风",
-          "power": 16,
-          "windSpeed": 52,
-          "pressure": 935,
-          "moveSpeed": 26,
-          "moveDirection": "西",
-          "radius7": "320|270|300|250",
-          "radius10": "120|100|120|100",
-          "radius12": "60|60|60|60",
-          "phase": "history"
-        },
         {
           "time": "2026-10-29 05:00:00",
           "lng": 155.7,
@@ -631,13 +586,58 @@
           "radius10": "100|80|120|80",
           "radius12": null,
           "phase": "history"
+        },
+        {
+          "time": "2026-11-02 20:00:00",
+          "lng": 140.3,
+          "lat": 22.9,
+          "strength": "强热带风暴",
+          "power": 10,
+          "windSpeed": 28,
+          "pressure": 982,
+          "moveSpeed": 9,
+          "moveDirection": "西北西",
+          "radius7": "280|250|360|220",
+          "radius10": "100|80|120|80",
+          "radius12": null,
+          "phase": "history"
+        },
+        {
+          "time": "2026-11-02 23:00:00",
+          "lng": 140,
+          "lat": 23,
+          "strength": "强热带风暴",
+          "power": 10,
+          "windSpeed": 28,
+          "pressure": 982,
+          "moveSpeed": 6,
+          "moveDirection": "西北西",
+          "radius7": "280|250|360|220",
+          "radius10": "100|80|120|80",
+          "radius12": null,
+          "phase": "history"
+        },
+        {
+          "time": "2026-11-03 02:00:00",
+          "lng": 139.8,
+          "lat": 23.1,
+          "strength": "强热带风暴",
+          "power": 10,
+          "windSpeed": 28,
+          "pressure": 982,
+          "moveSpeed": 6,
+          "moveDirection": "西",
+          "radius7": "280|250|360|220",
+          "radius10": "100|80|120|80",
+          "radius12": null,
+          "phase": "history"
         }
       ],
       "forecastAgency": "中国",
       "forecast": [
         {
-          "time": "2026-11-03 05:00:00",
-          "lng": 139.6,
+          "time": "2026-11-03 14:00:00",
+          "lng": 139.1,
           "lat": 23.2,
           "strength": "强热带风暴",
           "power": 10,
@@ -651,9 +651,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-11-03 17:00:00",
-          "lng": 139,
-          "lat": 23.5,
+          "time": "2026-11-04 02:00:00",
+          "lng": 138.4,
+          "lat": 23.8,
           "strength": "强热带风暴",
           "power": 10,
           "windSpeed": 28,
@@ -666,9 +666,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-11-04 05:00:00",
-          "lng": 138.7,
-          "lat": 24.2,
+          "time": "2026-11-04 14:00:00",
+          "lng": 138,
+          "lat": 24.9,
           "strength": "强热带风暴",
           "power": 10,
           "windSpeed": 28,
@@ -681,9 +681,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-11-04 17:00:00",
-          "lng": 138.7,
-          "lat": 25.3,
+          "time": "2026-11-05 02:00:00",
+          "lng": 138.2,
+          "lat": 26.4,
           "strength": "强热带风暴",
           "power": 10,
           "windSpeed": 28,
@@ -696,9 +696,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-11-05 05:00:00",
-          "lng": 139,
-          "lat": 26.9,
+          "time": "2026-11-05 14:00:00",
+          "lng": 139.8,
+          "lat": 28.7,
           "strength": "强热带风暴",
           "power": 10,
           "windSpeed": 28,
@@ -711,9 +711,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-11-05 17:00:00",
-          "lng": 141.4,
-          "lat": 29.8,
+          "time": "2026-11-06 02:00:00",
+          "lng": 143.2,
+          "lat": 31.5,
           "strength": "强热带风暴",
           "power": 10,
           "windSpeed": 25,
@@ -726,9 +726,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-11-06 17:00:00",
-          "lng": 154.2,
-          "lat": 39.4,
+          "time": "2026-11-07 02:00:00",
+          "lng": 159.4,
+          "lat": 41.4,
           "strength": "热带风暴",
           "power": 9,
           "windSpeed": 23,
@@ -743,5 +743,5 @@
       ]
     }
   ],
-  "generatedAt": "2026-11-02T11:54:41.568Z"
+  "generatedAt": "2026-11-02T21:14:22.948Z"
 }
