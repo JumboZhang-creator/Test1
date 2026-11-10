@@ -13,23 +13,23 @@
       "active": true,
       "warningLevel": "white",
       "startedAt": "2026-11-07 14:00:00",
-      "endedAt": "2026-11-10 14:00:00",
+      "endedAt": "2026-11-10 23:00:00",
       "current": {
-        "time": "2026-11-10 14:00:00",
-        "lng": 139.7,
-        "lat": 25.4,
-        "strength": "强台风",
-        "power": 14,
-        "windSpeed": 42,
-        "pressure": 955,
-        "moveSpeed": 39,
+        "time": "2026-11-10 23:00:00",
+        "lng": 143,
+        "lat": 26.4,
+        "strength": "台风",
+        "power": 12,
+        "windSpeed": 35,
+        "pressure": 970,
+        "moveSpeed": 43,
         "moveDirection": "东北东",
-        "radius7": "200|150|250|200",
-        "radius10": "80|80|80|80",
-        "radius12": "50|50|50|50",
+        "radius7": "200|250|200|250",
+        "radius10": "70|80|70|80",
+        "radius12": "30|40|30|40",
         "phase": "current",
-        "positionDescription": " 距离美国关岛北偏西方向约1430公里",
-        "movementDescription": " “查帕卡”将以每小时35-40公里的速度向东偏北方向快速移动，强度逐渐减弱 "
+        "positionDescription": " 距离美国关岛偏北方向约1450公里",
+        "movementDescription": " “查帕卡”将以每小时40-45公里的速度向东偏北方向快速移动，强度逐渐减弱 "
       },
       "history": [
         {
@@ -406,18 +406,63 @@
           "radius10": "80|80|80|80",
           "radius12": "50|50|50|50",
           "phase": "history"
+        },
+        {
+          "time": "2026-11-10 17:00:00",
+          "lng": 140.5,
+          "lat": 25.6,
+          "strength": "台风",
+          "power": 13,
+          "windSpeed": 38,
+          "pressure": 965,
+          "moveSpeed": 42,
+          "moveDirection": "东北东",
+          "radius7": "200|150|250|200",
+          "radius10": "80|80|80|80",
+          "radius12": "50|50|50|50",
+          "phase": "history"
+        },
+        {
+          "time": "2026-11-10 20:00:00",
+          "lng": 141.8,
+          "lat": 26,
+          "strength": "台风",
+          "power": 13,
+          "windSpeed": 38,
+          "pressure": 965,
+          "moveSpeed": 42,
+          "moveDirection": "东北东",
+          "radius7": "200|150|250|200",
+          "radius10": "80|80|80|80",
+          "radius12": "50|50|50|50",
+          "phase": "history"
+        },
+        {
+          "time": "2026-11-10 23:00:00",
+          "lng": 143,
+          "lat": 26.4,
+          "strength": "台风",
+          "power": 12,
+          "windSpeed": 35,
+          "pressure": 970,
+          "moveSpeed": 43,
+          "moveDirection": "东北东",
+          "radius7": "200|250|200|250",
+          "radius10": "70|80|70|80",
+          "radius12": "30|40|30|40",
+          "phase": "history"
         }
       ],
       "forecastAgency": "中国",
       "forecast": [
         {
-          "time": "2026-11-11 02:00:00",
-          "lng": 144.1,
-          "lat": 26.8,
-          "strength": "台风",
-          "power": 13,
-          "windSpeed": 40,
-          "pressure": 960,
+          "time": "2026-11-11 11:00:00",
+          "lng": 147.9,
+          "lat": 27.8,
+          "strength": "强热带风暴",
+          "power": 11,
+          "windSpeed": 30,
+          "pressure": 980,
           "moveSpeed": null,
           "moveDirection": null,
           "radius7": null,
@@ -426,24 +471,9 @@
           "phase": "forecast"
         },
         {
-          "time": "2026-11-11 14:00:00",
-          "lng": 149.3,
-          "lat": 28.5,
-          "strength": "台风",
-          "power": 12,
-          "windSpeed": 35,
-          "pressure": 970,
-          "moveSpeed": null,
-          "moveDirection": null,
-          "radius7": null,
-          "radius10": null,
-          "radius12": null,
-          "phase": "forecast"
-        },
-        {
-          "time": "2026-11-12 02:00:00",
-          "lng": 155.1,
-          "lat": 28.5,
+          "time": "2026-11-11 23:00:00",
+          "lng": 153.9,
+          "lat": 29.4,
           "strength": "强热带风暴",
           "power": 10,
           "windSpeed": 28,
@@ -454,9 +484,24 @@
           "radius10": null,
           "radius12": null,
           "phase": "forecast"
+        },
+        {
+          "time": "2026-11-12 11:00:00",
+          "lng": 160.3,
+          "lat": 31,
+          "strength": "热带风暴",
+          "power": 9,
+          "windSpeed": 23,
+          "pressure": 990,
+          "moveSpeed": null,
+          "moveDirection": null,
+          "radius7": null,
+          "radius10": null,
+          "radius12": null,
+          "phase": "forecast"
         }
       ]
     }
   ],
-  "generatedAt": "2026-11-10T08:23:00.227Z"
+  "generatedAt": "2026-11-10T16:30:18.871Z"
 }
